@@ -29,11 +29,7 @@ const Footer = () => {
                 Destinations
               </Link>
             </li>
-            <li>
-              <Link to="/special-offers" className="hover:text-primary">
-                Special Offers
-              </Link>
-            </li>
+  
             <li>
               <Link to="/contact-us" className="hover:text-primary">
                 Contact Us
